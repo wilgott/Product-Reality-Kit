@@ -48,7 +48,7 @@ Start here:
 5. Did they reach first value?
 6. Did usage drop before renewal?
 7. What was promised during Sales?
-8. Did buyer and users expect same thing?
+8. Did the buyer and users expect the same thing?
 9. Was onboarding completed properly?
 10. Was implementation harder than expected?
 11. Were we dependent on another vendor, product, integration, API, or customer process?
