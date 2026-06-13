@@ -1,30 +1,86 @@
 # Product Reality Kit
 
-Product work in B2B SaaS is messy.
+Most B2B SaaS product problems do not show up as clean product problems.
 
-Sales wants the deal.
-Enterprise customers want exceptions.
-Engineering sees complexity.
-CS sees onboarding problems.
-Leadership wants revenue.
-Product needs to make the call.
+They show up as:
 
-Product Reality Kit is a practical toolkit for B2B SaaS product people who need to make better decisions when things get messy.
+- “Sales promised this.”
+- “Enterprise needs this.”
+- “Pricing is confusing.”
+- “Customers are churning.”
+- “The launch did not land.”
+- “Nobody is using the feature.”
+- “Can we just make it configurable?”
+- “Everything is high priority.”
 
-It helps you diagnose what is actually going on before you write a PRD, commit roadmap capacity, or say yes to the loudest request.
+Product Reality Kit is a practical toolkit for product people who need to make better decisions when things get messy.
+
+Not in theory.
+
+In real B2B SaaS environments where Sales wants the deal, CS sees the pain, Engineering sees the complexity, leadership wants revenue, and Product needs to make the call.
 
 **Start with the customer problem. Understand the business pressure. Make the trade-off clear. Then decide.**
 
 ---
 
+## Why I built this
+
+I have worked with SMB, mid-market, and enterprise customers in sales-led B2B SaaS, vertical SaaS, no-code, workflow, and orchestration products.
+
+The same pattern keeps showing up:
+
+Teams jump to solutions before they understand the real problem.
+
+A customer asks for a feature.  
+Sales needs it for a deal.  
+Enterprise wants an exception.  
+Pricing is hard to explain.  
+A launch does not create traction.  
+Customers churn, and everyone blames the product.
+
+Sometimes the product is the problem.
+
+But sometimes it is onboarding, positioning, packaging, Sales expectations, customer fit, implementation, dependencies, or unclear decision-making.
+
+This toolkit helps you slow down just enough to make a better call.
+
+---
+
+## What this is
+
+Product Reality Kit is a practical diagnostic toolkit for B2B SaaS product people.
+
+It helps you move from:
+
+> “We need to build this.”
+
+to:
+
+> “What problem are we solving, for whom, why now, and what trade-off are we willing to make?”
+
+The goal is not to create more process.
+
+The goal is better product judgment.
+
+---
+
 ## Who this is for
 
-This is for product people working in B2B SaaS, especially in sales-led companies, vertical SaaS, workflow products, no-code platforms, orchestration products, and enterprise-heavy environments.
+This is for product people working in B2B SaaS, especially in:
+
+- Sales-led companies
+- Vertical SaaS
+- Workflow products
+- No-code platforms
+- Orchestration products
+- Enterprise-heavy environments
 
 It is useful when you deal with:
 
+- Unclear customer problems
 - Sales-driven roadmap pressure
 - Enterprise customers asking for exceptions
+- Roadmaps with too many priorities
 - Pricing and packaging confusion
 - Weak go-to-market plans
 - Weak activation after purchase or signup
@@ -35,72 +91,7 @@ It is useful when you deal with:
 
 ---
 
-## What is inside
-
-### Diagnostics
-
-Use these when the situation is unclear and the team is jumping to solutions too fast.
-
-| Diagnostic | Use it when |
-|---|---|
-| [When Sales Drives the Roadmap](diagnostics/when-sales-drives-the-roadmap.md) | Sales, leadership, or a large customer is pushing hard for a feature. |
-| [When Enterprise Wants an Exception](diagnostics/when-enterprise-wants-an-exception.md) | A large customer asks for something that may pull the roadmap sideways. |
-| [When Pricing Is Confusing](diagnostics/when-pricing-is-confusing.md) | Customers, Sales, or CS struggle to explain the value, package, or price. |
-| [When the Launch Does Not Land](diagnostics/when-the-launch-does-not-land.md) | A feature exists, but adoption, sales traction, or customer understanding is weak. |
-| [When Activation Is Weak](diagnostics/when-activation-is-weak.md) | Customers buy or start onboarding, but do not reach first value fast enough. |
-| [When Feature Adoption Is Low](diagnostics/when-feature-adoption-is-low.md) | A shipped feature is not being used, and the team needs to understand why. |
-| [When Customers Churn](diagnostics/when-customers-churn.md) | Customers are leaving and the team may assume the product is the problem. |
-| [When "Just Make It Configurable" Sounds Easy](diagnostics/when-just-make-it-configurable-sounds-easy.md) | The team wants to add flexibility, settings, rules, or workflow options. |
-
-### Product Decision Records
-
-A Product Decision Record helps the team remember what was decided, why it was decided, what trade-off was accepted, and when the decision should be reviewed again.
-
-- [Standard Product Decision Record](decision-records/product-decision-record.md)
-- [Lite Product Decision Record](decision-records/product-decision-record-lite.md)
-- [Confluence copy-paste version](decision-records/confluence-copy-paste.md)
-
-Use these in Confluence, Notion, Linear, Jira, GitHub, Google Docs, or wherever your team works.
-
-The tool does not matter. The decision does.
-
-### AI prompts
-
-AI is optional. The point is not to outsource product judgement. The point is to ask better questions and pressure-test the thinking.
-
-- [Diagnose a sales request](prompts/diagnose-sales-request.md)
-- [Challenge an enterprise request](prompts/challenge-enterprise-request.md)
-- [Pressure-test pricing and packaging](prompts/pressure-test-pricing-packaging.md)
-- [Pressure-test GTM](prompts/pressure-test-gtm.md)
-- [Review a product decision](prompts/review-product-decision.md)
-
-### Example
-
-Start with the fictional example if you want to see how the toolkit is meant to be used:
-
-- [Company context](examples/verifyflow/company-context.md)
-- [Sales request](examples/verifyflow/sales-request.md)
-- [Diagnostic output](examples/verifyflow/diagnostic-output.md)
-- [Product Decision Record](examples/verifyflow/product-decision-record.md)
-
-### References
-
-Use the references page to see the public sources and influences behind the toolkit.
-
-- [Influences and references](references/influences.md)
-
-The diagnostics are experience-backed product judgment, not claims of universal research. Source-backed claims and public influences are listed in the references page.
-
----
-
-## How to use this
-
-1. Pick the diagnostic that matches your situation.
-2. Read the red flags and common false diagnoses.
-3. Answer the questions honestly.
-4. Use the optional AI prompt if you want help pressure-testing the situation.
-5. Write a Product Decision Record.
-6. Share the decision with the people who need to understand it.
+## How it works
 
 ```text
 Messy situation
@@ -110,50 +101,3 @@ Messy situation
     -> Trade-off
     -> Product Decision Record
     -> Clear communication
-```
-
-For local use, copy-paste workflows, and AI tools such as Codex, Claude Code, and OpenClaw, see [USAGE.md](USAGE.md).
-
----
-
-## Principles
-
-1. Start with the customer problem.
-2. Check if the problem is real.
-3. Understand the business pressure.
-4. Do not let the loudest voice own the roadmap.
-5. You cannot satisfy everyone.
-6. A yes to one thing is a no to something else.
-7. Write down the decision so people remember why it was made.
-
----
-
-## What this is not
-
-This is not a perfect product management framework.
-
-It is not a replacement for judgement.
-
-It is not a way to ignore Sales, CS, Engineering, Support, or leadership.
-
-It is a practical toolkit for slowing down just enough to make a better call.
-
----
-
-## Contribute
-
-Contributions are welcome if they keep the same style:
-
-- Clear language
-- Practical examples
-- No heavy theory
-- No consultant-speak
-- Useful in the first 30 seconds
-
-See [CONTRIBUTING.md](CONTRIBUTING.md).
-
----
-
-## License
-
-MIT License. See [LICENSE](LICENSE).
