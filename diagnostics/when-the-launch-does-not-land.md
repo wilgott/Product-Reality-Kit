@@ -1,35 +1,44 @@
 # When the Launch Does Not Land
 
-A product can be good and still fail because the launch was weak.
+Shipped means available in production.
+Launched means customers know about it, understand it, and use it.
+Use this diagnostic when a product or feature is live, but nothing really happens.
 
-Use this diagnostic when a feature or product exists, but adoption, sales traction, or customer understanding is poor.
+Nothing may look like no traction, no visitors, weak qualified leads, weak media presence, low customer awareness, low usage, Sales ignoring the launch material, or CS not being ready to onboard customers.
 
-The goal is to understand if the problem is product, positioning, onboarding, enablement, timing, or target segment.
+Do not make this a Marketing postmortem too early. A launch can fail because of product, positioning, Sales enablement, CS readiness, customer understanding, value clarity, packaging, segment choice, or timing. Marketing may be part of the answer, but check the full launch chain first.
 
 ---
 
 ## When to use this
 
-Use this when you hear things like:
+Use this when a launch has happened on paper, but the market is quiet.
 
-- "Customers are not using it."
-- "Sales is not talking about it."
-- "CS does not know how to onboard it."
-- "The launch did not create any movement."
-- "Customers do not get it."
-- "We need more features before we can sell it."
-- "Marketing needs to push it harder."
-- "The feature is live, but nothing happened."
+Common signals:
+
+- Visitors did not show up.
+- Qualified leads are weak.
+- Demo requests did not move.
+- Media presence is thin or absent.
+- Customers do not know the product or feature exists.
+- Customers know it exists, but do not understand why it matters.
+- Usage is low after launch.
+- Activation did not improve after launch.
+- Sales is not using the launch material.
+- Sales did not know how to explain it.
+- CS did not know how to onboard it.
+- Customers are missing it inside the product.
+- The team shipped, announced, and moved on.
 
 ---
 
 ## The uncomfortable truth
 
-Shipping is not the same as launching.
+Weak launches are often chain failures, not single failures.
 
-A launch is not done because the feature is in production.
+The product may be live, but the customer may not know it exists. The customer may know it exists, but not understand the problem it solves. Sales may have a deck, but no crisp story. CS may have a feature list, but no onboarding path. Marketing may have a campaign, but no clear value message to carry.
 
-A launch works when the right people understand the value, know how to use it, and know why it matters now.
+When the launch does not land, one tempting answer is "Marketing did not push it hard enough." Sometimes that is true. First check whether the launch had a sharp enough customer outcome, target segment, enablement path, and in-product discovery path to push.
 
 ---
 
@@ -37,16 +46,18 @@ A launch works when the right people understand the value, know how to use it, a
 
 Start here:
 
-1. Who is this for?
-2. What customer problem does it solve?
-3. Who feels the pain: buyer, user, admin, champion, or executive?
-4. Is the value clear in one sentence?
-5. Can Sales explain it in one minute?
-6. Can CS onboard it without heroics?
-7. Is the value visible quickly after setup?
-8. Did we launch a feature, or did we ask customers to change behavior?
-9. Do we have examples, proof, use cases, or stories?
-10. Is the target segment too broad?
+1. Did customers know this was launched?
+2. Did the right customers know?
+3. Did they understand what problem it solves?
+4. Did Sales have the right material?
+5. Was Sales trained well enough?
+6. Did CS know how to onboard it?
+7. Did Marketing have a clear message?
+8. Did we explain what we deliver and what we do not deliver?
+9. Did we get visitors, leads, demos, usage, or customer interest?
+10. Are customers missing it inside the product?
+11. Was the launch aimed at the right segment?
+12. Did we ship a feature, or did we launch a customer outcome?
 
 ---
 
@@ -55,67 +66,89 @@ Start here:
 Be careful when:
 
 - The launch plan is only a release note.
-- Sales and CS were told too late.
-- The value is described in product language, not customer language.
-- The buyer and user care about different things.
-- Customers need too much setup before they see value.
-- Success depends on manual work from CS.
-- No one knows what good adoption looks like.
-- Marketing is expected to fix unclear positioning.
-- The feature solves a real problem, but for the wrong segment.
+- Sales cannot explain it.
+- CS cannot onboard it.
+- Customers do not know it exists.
+- Value is explained in product language.
+- Nobody defined successful launch.
+- Marketing is blamed before checking the full launch chain.
+- The product is available, but not in the customer's workflow.
+- The team shipped and moved on too quickly.
+- The target segment is "all customers."
+- The page explains what was built, not what changes for the customer.
+- Support is getting basic questions the launch should have answered.
 
 ---
 
 ## Common false diagnoses
 
+### "Marketing did not push it hard enough."
+
+Maybe.
+
+But pushing a muddy message harder often just makes the mud travel farther.
+
+Check first:
+
+- Did Marketing have a clear message?
+- Was the target segment specific enough?
+- Was there a customer problem to lead with?
+- Did the product page, launch email, Sales deck, and in-product surface say the same thing?
+- Did the launch generate visitors, qualified leads, demo requests, or customer interest?
+- Did customers have a reason to act now?
+
 ### "The product is not good enough."
 
 Maybe.
 
-But it could also mean:
+But low launch response does not automatically prove weak product quality.
 
-- The value is not clear.
-- Sales cannot explain it.
-- CS cannot onboard it.
-- The feature is in the wrong package.
-- The target segment is too broad.
-- Customers do not know what to do next.
-- The product requires a behavior change we did not support.
+It may mean:
 
-### "Marketing needs a campaign."
-
-Maybe.
-
-But a campaign cannot save a weak product story.
-
-If the value is unclear, more noise will not fix it.
+- Customers did not know it existed.
+- Customers did not understand the value.
+- The feature was not discoverable inside the product.
+- Sales could not connect it to a buying problem.
+- CS could not show customers how to get started.
+- The launch aimed at the wrong segment.
+- The value took too long to appear after activation.
 
 ### "We need more features."
 
 Maybe.
 
-But more features can make a weak launch even harder to understand.
+But more features are often the team's way of avoiding the harder question: did anyone understand why this mattered?
+
+Before building more, check:
+
+- Whether the current value is clear.
+- Whether the product experience blocks usage.
+- Whether the package makes sense.
+- Whether customers are asking for more capability or simply missing the value already there.
+- Whether Sales and CS can make the existing offer useful to the right customers.
 
 ---
 
 ## What to check
 
-Before deciding, check:
+Check the whole launch chain before naming the failure:
 
-- Activation data
-- Feature adoption data
-- Time to first value
-- Demo conversion
-- Sales call notes
-- CS onboarding notes
-- Support questions
-- Customer feedback
-- Packaging and tier placement
-- Enablement material
-- Internal training
-- Launch communication
-- Whether the launch had a clear owner
-- Whether the success metric was defined before launch
+- Visitors to launch pages, product pages, docs, and campaigns.
+- Qualified leads from the intended segment.
+- Demo requests and demo quality.
+- Marketing performance by channel, audience, and message.
+- Media presence with the intended audience.
+- Sales usage of launch material.
+- Sales feedback from calls and demos.
+- CS readiness before and after launch.
+- CS onboarding notes and playbooks.
+- Support questions that show confusion or missing context.
+- Customer feedback from onboarding, QBRs, renewals, or account reviews.
+- Product usage after launch.
+- Activation after launch.
+- In-product discovery and whether customers can find it.
+- Value clarity in one sentence.
+- Target segment specificity.
 
 ---
 
@@ -123,17 +156,19 @@ Before deciding, check:
 
 Possible decisions:
 
-- Improve positioning
-- Improve onboarding
-- Create Sales enablement
-- Create CS playbooks
-- Narrow the target segment
-- Change packaging
-- Improve product UX
-- Add missing proof or examples
-- Run customer discovery
-- Pause the push until the story is clearer
-- Kill or rethink the bet
+- Improve positioning.
+- Improve Sales material.
+- Train Sales again.
+- Create a CS onboarding playbook.
+- Improve in-product discovery.
+- Narrow the target segment.
+- Change packaging.
+- Improve the product experience.
+- Relaunch to a clearer audience.
+- Pause and learn before building more.
+- Rewrite launch messaging around the customer outcome.
+- Add proof, examples, or customer stories.
+- Change the launch owner or operating cadence.
 
 ---
 
@@ -145,15 +180,17 @@ Recommended template:
 
 - [Standard PDR](../decision-records/product-decision-record.md)
 
-Make sure the decision record includes:
+Make sure the decision record answers:
 
-- What failed: adoption, sales traction, understanding, onboarding, or value
-- What evidence you have
-- What part of GTM needs to change
-- What Product will do
-- What Sales, CS, Marketing, or Support need to do
-- What you are saying no to
-- When you will review the launch again
+- What was the expected launch outcome?
+- What was the actual outcome?
+- Where was the weak launch-chain point?
+- Is the diagnosis product, GTM, Sales, CS, positioning, segment, or a mix?
+- What changes now?
+- What are we not changing yet?
+- What evidence supports that decision?
+- Who owns the next action?
+- What is the review date?
 
 ---
 
@@ -167,6 +204,6 @@ Use this prompt if you want help pressure-testing the launch:
 
 ## Simple rule
 
-Do not call something launched just because it shipped.
+Do not call it launched just because it shipped.
 
-Treat the launch as real when the market can understand and use what you built.
+If customers do not know it exists, do not understand why it matters, cannot find it, or cannot use it, the launch is still unfinished.

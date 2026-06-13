@@ -27,6 +27,8 @@ It is useful when you deal with:
 - Enterprise customers asking for exceptions
 - Pricing and packaging confusion
 - Weak go-to-market plans
+- Weak activation after purchase or signup
+- Features that shipped but do not get used
 - Churn that may get blamed on product too quickly
 - Configurability requests that sound easy but create long-term complexity
 - Product decisions that disappear into Slack, meetings, or half-forgotten PRDs
@@ -45,6 +47,8 @@ Use these when the situation is unclear and the team is jumping to solutions too
 | [When Enterprise Wants an Exception](diagnostics/when-enterprise-wants-an-exception.md) | A large customer asks for something that may pull the roadmap sideways. |
 | [When Pricing Is Confusing](diagnostics/when-pricing-is-confusing.md) | Customers, Sales, or CS struggle to explain the value, package, or price. |
 | [When the Launch Does Not Land](diagnostics/when-the-launch-does-not-land.md) | A feature exists, but adoption, sales traction, or customer understanding is weak. |
+| [When Activation Is Weak](diagnostics/when-activation-is-weak.md) | Customers buy or start onboarding, but do not reach first value fast enough. |
+| [When Feature Adoption Is Low](diagnostics/when-feature-adoption-is-low.md) | A shipped feature is not being used, and the team needs to understand why. |
 | [When Customers Churn](diagnostics/when-customers-churn.md) | Customers are leaving and the team may assume the product is the problem. |
 | [When "Just Make It Configurable" Sounds Easy](diagnostics/when-just-make-it-configurable-sounds-easy.md) | The team wants to add flexibility, settings, rules, or workflow options. |
 
