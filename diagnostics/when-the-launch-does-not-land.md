@@ -225,26 +225,6 @@ Use this prompt if you want help pressure-testing the launch:
 
 - [Pressure-test GTM](../prompts/pressure-test-gtm.md)
 
-Ask the AI to inspect the full launch chain, not just the campaign:
-
-```text
-We launched a product or feature, but it did not land.
-
-Expected outcome:
-[insert expected visitors, leads, demos, awareness, usage, activation, or customer interest]
-
-Actual outcome:
-[insert what happened]
-
-Launch assets:
-[insert messaging, Sales material, CS material, product surfaces, campaigns, docs, and enablement]
-
-Customer segment:
-[insert intended segment]
-
-Analyze whether the issue is product, positioning, Sales enablement, CS readiness, customer understanding, value clarity, in-product discovery, packaging, or target segment. Do not assume Marketing is the problem until the full launch chain has been checked.
-```
-
 ---
 
 ## Simple rule
