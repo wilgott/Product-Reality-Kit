@@ -45,6 +45,7 @@ Use these when the situation is unclear and the team is jumping to solutions too
 | [When Enterprise Wants an Exception](diagnostics/when-enterprise-wants-an-exception.md) | A large customer asks for something that may pull the roadmap sideways. |
 | [When Pricing Is Confusing](diagnostics/when-pricing-is-confusing.md) | Customers, Sales, or CS struggle to explain the value, package, or price. |
 | [When the Launch Does Not Land](diagnostics/when-the-launch-does-not-land.md) | A feature exists, but adoption, sales traction, or customer understanding is weak. |
+| [When Activation Is Weak](diagnostics/when-activation-is-weak.md) | Customers buy or start onboarding, but do not reach first value fast enough. |
 | [When Customers Churn](diagnostics/when-customers-churn.md) | Customers are leaving and the team may assume the product is the problem. |
 | [When "Just Make It Configurable" Sounds Easy](diagnostics/when-just-make-it-configurable-sounds-easy.md) | The team wants to add flexibility, settings, rules, or workflow options. |
 
