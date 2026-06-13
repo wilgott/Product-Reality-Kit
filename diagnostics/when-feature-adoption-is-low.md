@@ -185,6 +185,14 @@ Make sure the decision record answers:
 
 ---
 
+## Optional AI prompt
+
+Use this prompt after you have written a Product Decision Record and want to pressure-test the adoption logic:
+
+- [Review a product decision](../prompts/review-product-decision.md)
+
+---
+
 ## Simple rule
 
 Do not judge feature quality before checking awareness, access, value clarity, setup, and workflow fit.

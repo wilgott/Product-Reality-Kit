@@ -190,6 +190,14 @@ Make sure the decision record answers:
 
 ---
 
+## Optional AI prompt
+
+Use this prompt after you have written a Product Decision Record and want to pressure-test the activation logic:
+
+- [Review a product decision](../prompts/review-product-decision.md)
+
+---
+
 ## Simple rule
 
 Activation is not a signed contract, completed signup, kickoff call, or onboarding email sequence.

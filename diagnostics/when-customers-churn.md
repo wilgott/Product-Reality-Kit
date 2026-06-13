@@ -188,6 +188,14 @@ Make sure the decision record answers:
 
 ---
 
+## Optional AI prompt
+
+Use this prompt after you have written a Product Decision Record and want to pressure-test the churn logic:
+
+- [Review a product decision](../prompts/review-product-decision.md)
+
+---
+
 ## Simple rule
 
 Do not let churn automatically become a feature request.
