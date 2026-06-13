@@ -1,12 +1,13 @@
 # When Customers Churn
 
 Churn is a business signal.
-
 It is not always a product verdict.
 
-Use this diagnostic when customers are leaving and the team quickly assumes the product needs more features.
+Use this diagnostic when customers are leaving and the team jumps too quickly to "we need more features."
 
-The goal is to find the real reason before the roadmap reacts.
+The goal is to separate product problems from Sales, onboarding, implementation, ICP, dependency, pricing, support, or customer-success problems before the roadmap reacts.
+
+Churn diagnosis is shared work across Product, Sales, CS, Support, and sometimes Engineering. The point is not to blame one function. The point is to understand where the customer promise, customer fit, product experience, and delivery system broke down.
 
 ---
 
@@ -15,12 +16,14 @@ The goal is to find the real reason before the roadmap reacts.
 Use this when you hear things like:
 
 - "Customers are churning because the product is missing features."
+- "We need more features."
 - "The competitor is cheaper."
 - "CS should have saved them."
-- "We need to build what they asked for."
-- "The product is not sticky enough."
+- "The product failed."
 - "They never really used it."
 - "We need more onboarding emails."
+- "Sales sold the wrong thing."
+- "The customer was a bad fit."
 
 ---
 
@@ -28,9 +31,9 @@ Use this when you hear things like:
 
 Customers can churn because the product is weak.
 
-They can also churn because Sales overpromised, onboarding failed, the customer was a bad fit, an integration broke, the buyer changed, or the value was never made clear.
+They can also churn because Sales promises were unclear, onboarding did not get them to first value, implementation was harder than expected, the customer was outside the ICP, a vendor or API failed, support did not respond well enough, the buyer and users wanted different outcomes, budget disappeared, or internal change made the product less important.
 
-Do not jump to the easiest explanation.
+Do not turn churn directly into feature work until you know which problem you are solving.
 
 ---
 
@@ -39,17 +42,20 @@ Do not jump to the easiest explanation.
 Start here:
 
 1. Which customers are churning?
-2. Are they in our ideal customer profile?
-3. Is this logo churn or revenue churn?
+2. Are they in ICP?
+3. Is this logo or revenue churn?
 4. Did they activate?
 5. Did they reach first value?
 6. Did usage drop before renewal?
-7. What was promised during sales?
-8. Did the buyer and users expect the same thing?
-9. Was implementation harder than expected?
-10. Were we dependent on another product, vendor, integration, or customer process?
-11. Did the customer churn because of value, features, price, support, budget, internal change, or poor fit?
-12. Is churn concentrated in a segment, cohort, package, use case, or sales channel?
+7. What was promised during Sales?
+8. Did buyer and users expect same thing?
+9. Was onboarding completed properly?
+10. Was implementation harder than expected?
+11. Were we dependent on another vendor, product, integration, API, or customer process?
+12. Did they churn because of product, price, value, onboarding, support, budget, internal change, or poor fit?
+13. Is churn concentrated by segment, package, cohort, use case, or sales channel?
+14. Was value visible to the buyer before renewal?
+15. Did users adopt the product enough for the buyer's value case to hold?
 
 ---
 
@@ -57,22 +63,24 @@ Start here:
 
 Be careful when:
 
-- Churn is explained by one loud customer story.
-- Product is blamed without checking onboarding or sales promises.
-- The churn reason is recorded as "missing feature" without more detail.
-- Customers never reached first value.
-- Sales sold a use case the product was not ready for.
-- CS had to do too much manual work to make the customer successful.
-- Usage was low from the start.
-- The buyer loved the product but users did not adopt it.
-- An integration or dependency failed and made the product look bad.
+- Product is blamed before Sales promises are checked.
+- The churn reason is recorded as "missing feature" without detail.
+- The customer never reached first value.
+- Usage was low from start.
+- The buyer liked the product but users did not adopt it.
+- Sales sold an unsupported use case.
+- CS carried too much manual work to make the customer successful.
+- Onboarding took too long.
+- An external dependency failed and made the product look bad.
+- Support tickets show unresolved friction before renewal.
+- Implementation required customer work nobody had planned for.
 - The team wants to build more before understanding why customers left.
 
 ---
 
 ## Common false diagnoses
 
-### "The product needs more features."
+### "We need more features."
 
 Maybe.
 
@@ -80,25 +88,35 @@ But it could also mean:
 
 - The wrong customers were sold.
 - Customers did not understand what they bought.
-- Onboarding did not get them to value.
+- Onboarding did not get them to first value.
+- Implementation was too hard.
 - The product solved the buyer problem but not the user problem.
-- The implementation was too hard.
-- A dependency failed.
+- A vendor, integration, API, or customer process blocked success.
 - The value was not visible before renewal.
 
 ### "The competitor is cheaper."
 
 Maybe.
 
-But cheaper is often the reason customers give when the value is not clear enough.
+But cheaper is often the reason customers give when value is weak, unclear, or hard to prove.
 
-Price pressure gets louder when value is weak or hard to prove.
+Check whether price was the real issue, or whether price became the easiest explanation after activation, usage, support, or outcomes disappointed the customer.
 
 ### "CS should have saved them."
 
 Maybe.
 
-But CS cannot always save a bad-fit customer, a broken promise, or a product that is too hard to adopt.
+But CS cannot always save a bad-fit customer, a broken promise, a slow implementation, missing activation, or a product that is too hard to adopt.
+
+If CS is carrying too much manual work, diagnose why the customer needs that much help instead of treating CS effort as the root cause.
+
+### "The product failed."
+
+Maybe.
+
+But product failure is not always the whole story. If an integration, vendor, customer process, or dependency failed, the diagnosis may be more complex.
+
+Check whether the product itself failed, the surrounding delivery system failed, or the customer could not create the conditions needed for success.
 
 ---
 
@@ -106,23 +124,26 @@ But CS cannot always save a bad-fit customer, a broken promise, or a product tha
 
 Before deciding, check:
 
-- Churn by segment
-- Churn by cohort
-- Churn by package or plan
-- Churn by sales channel
+- Churn by segment, cohort, package, and sales channel
+- Churn by use case
 - Time to first value
-- Activation rate
-- Feature usage
-- Support tickets
-- CS notes
+- Activation data
+- Usage data before renewal
 - Sales notes
+- CS notes
+- Support tickets
 - Renewal notes
 - Lost customer interviews
-- NPS or satisfaction comments
-- Integration reliability
-- Implementation time
 - Discount history
+- Onboarding completion
+- Implementation time
+- External dependencies
+- Integration reliability
+- Vendor, product, API, or customer process failures
 - Buyer/user mismatch
+- Customer fit
+- ICP fit
+- Price, budget, and value evidence
 
 ---
 
@@ -131,15 +152,16 @@ Before deciding, check:
 Possible decisions:
 
 - Fix onboarding
-- Improve sales qualification
+- Improve Sales qualification
 - Improve expectation setting
 - Improve activation
 - Improve implementation
 - Improve integration reliability
 - Change ICP
-- Change pricing or packaging
-- Build a missing product capability
+- Change pricing/packaging
+- Build missing product capability
 - Improve CS playbooks
+- Improve Support escalation paths
 - Run lost customer interviews
 - Do nothing yet and gather better evidence
 
@@ -153,16 +175,16 @@ Recommended template:
 
 - [Standard PDR](../decision-records/product-decision-record.md)
 
-Make sure the decision record includes:
+Make sure the decision record answers:
 
-- What type of churn you are addressing
-- Which segment is affected
-- The likely cause
-- The evidence
-- What you are not blaming too quickly
-- What action you will take
-- What you are saying no to
-- When you will review the signal again
+- Churn pattern
+- Affected segment/cohort
+- Likely cause
+- Evidence
+- What we are not blaming too quickly
+- Action
+- What we are saying no to
+- Review timing
 
 ---
 
@@ -170,4 +192,4 @@ Make sure the decision record includes:
 
 Do not let churn automatically become a feature request.
 
-Find the real cause first.
+Find the real cause first, then decide whether the next move belongs in Product, Sales, CS, Support, Engineering, pricing, packaging, onboarding, implementation, or customer qualification.
