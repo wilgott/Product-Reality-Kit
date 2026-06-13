@@ -6,7 +6,7 @@ Use this diagnostic when a product or feature is live, but nothing really happen
 
 Nothing may look like no traction, no visitors, weak qualified leads, weak media presence, low customer awareness, low usage, Sales ignoring the launch material, or CS not being ready to onboard customers.
 
-Do not make this a Marketing postmortem too early. A launch can fail because of product, positioning, Sales enablement, CS readiness, customer understanding, value clarity, packaging, segment choice, or timing. Marketing may be part of the answer. It is rarely the whole answer.
+Do not make this a Marketing postmortem too early. A launch can fail because of product, positioning, Sales enablement, CS readiness, customer understanding, value clarity, packaging, segment choice, or timing. Marketing may be part of the answer, but check the full launch chain first.
 
 ---
 
@@ -34,11 +34,11 @@ Common signals:
 
 ## The uncomfortable truth
 
-Most weak launches are not one failure. They are a chain failure.
+Weak launches are often chain failures, not single failures.
 
 The product may be live, but the customer may not know it exists. The customer may know it exists, but not understand the problem it solves. Sales may have a deck, but no crisp story. CS may have a feature list, but no onboarding path. Marketing may have a campaign, but no clear value message to carry.
 
-When the launch does not land, the lazy answer is usually "Marketing did not push it hard enough." Sometimes that is true. More often, the launch never had a sharp enough customer outcome, target segment, enablement path, or in-product discovery path to push.
+When the launch does not land, one tempting answer is "Marketing did not push it hard enough." Sometimes that is true. First check whether the launch had a sharp enough customer outcome, target segment, enablement path, and in-product discovery path to push.
 
 ---
 
@@ -86,7 +86,7 @@ Be careful when:
 
 Maybe.
 
-But pushing a muddy message harder usually just makes the mud travel farther.
+But pushing a muddy message harder often just makes the mud travel farther.
 
 Check first:
 
@@ -131,49 +131,24 @@ Before building more, check:
 
 ## What to check
 
-Check the whole launch chain before naming the failure.
+Check the whole launch chain before naming the failure:
 
-Demand:
-
-- Visitors to launch pages, product pages, docs, and relevant campaigns.
-- Qualified leads from the target segment.
+- Visitors to launch pages, product pages, docs, and campaigns.
+- Qualified leads from the intended segment.
 - Demo requests and demo quality.
-- Customer interest from named accounts or priority segments.
 - Marketing performance by channel, audience, and message.
-- Media presence and whether it reached the intended audience.
-
-Sales:
-
+- Media presence with the intended audience.
 - Sales usage of launch material.
 - Sales feedback from calls and demos.
-- Whether Sales can explain the customer problem, not just the feature.
-- Whether the material handles what the product delivers and what it does not deliver.
-- Whether the segment, buyer, and use case are specific enough for Sales to act.
-
-CS and support:
-
 - CS readiness before and after launch.
-- CS onboarding notes.
-- Whether CS has a playbook, not just a release summary.
-- Support questions that reveal confusion.
-- Customer feedback from onboarding, QBRs, renewals, and account reviews.
-
-Product:
-
+- CS onboarding notes and playbooks.
+- Support questions that show confusion or missing context.
+- Customer feedback from onboarding, QBRs, renewals, or account reviews.
 - Product usage after launch.
 - Activation after launch.
-- In-product discovery.
-- Whether customers are missing it inside the product.
-- Time to first value.
-- Drop-off points between awareness, activation, and repeated use.
-- Whether the product is available inside the customer's real workflow.
-
-Story:
-
+- In-product discovery and whether customers can find it.
 - Value clarity in one sentence.
 - Target segment specificity.
-- The customer outcome being launched.
-- Proof, examples, or use cases that make the value concrete.
 
 ---
 
