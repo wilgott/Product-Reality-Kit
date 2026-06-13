@@ -27,6 +27,8 @@ It is useful when you deal with:
 - Enterprise customers asking for exceptions
 - Pricing and packaging confusion
 - Weak go-to-market plans
+- Weak activation after purchase or signup
+- Features that shipped but do not get used
 - Churn that may get blamed on product too quickly
 - Configurability requests that sound easy but create long-term complexity
 - Product decisions that disappear into Slack, meetings, or half-forgotten PRDs
