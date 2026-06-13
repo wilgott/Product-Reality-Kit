@@ -112,6 +112,8 @@ Messy situation
     -> Clear communication
 ```
 
+For local use, copy-paste workflows, and AI tools such as Codex, Claude Code, and OpenClaw, see [USAGE.md](USAGE.md).
+
 ---
 
 ## Principles
