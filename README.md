@@ -1,103 +1,106 @@
 # Product Reality Kit
 
-Most B2B SaaS product problems do not show up as clean product problems.
+Most product frameworks look good when the situation is clean.
 
-They show up as:
+B2B SaaS is rarely clean.
 
-- “Sales promised this.”
-- “Enterprise needs this.”
-- “Pricing is confusing.”
-- “Customers are churning.”
-- “The launch did not land.”
-- “Nobody is using the feature.”
-- “Can we just make it configurable?”
-- “Everything is high priority.”
+Sales wants the deal.  
+Enterprise customers want exceptions.  
+Engineering sees complexity.  
+CS sees onboarding pain.  
+Leadership wants revenue.  
+Product needs to make the call.
 
-Product Reality Kit is a practical toolkit for product people who need to make better decisions when things get messy.
+That is where this toolkit comes in.
 
-Not in theory.
+**Product Reality Kit** is a practical diagnostic toolkit for B2B SaaS product people who need to make better decisions when things get messy.
 
-In real B2B SaaS environments where Sales wants the deal, CS sees the pain, Engineering sees the complexity, leadership wants revenue, and Product needs to make the call.
+It helps you slow down just enough to ask:
 
-**Start with the customer problem. Understand the business pressure. Make the trade-off clear. Then decide.**
+> What problem are we actually solving, for whom, why now, and what trade-off are we willing to make?
 
 ---
 
 ## Why I built this
 
-I have worked with SMB, mid-market, and enterprise customers in sales-led B2B SaaS, vertical SaaS, no-code, workflow, and orchestration products.
+I’m Robin Wilgott, a Product Manager working with B2B SaaS, no-code orchestration, workflow-heavy products, and digital trust.
 
-The same pattern keeps showing up:
+I have worked across SMB, mid-market, and enterprise customers in sales-led environments where product work is not just about writing PRDs or prioritizing tickets.
 
-Teams jump to solutions before they understand the real problem.
+It is about handling real pressure:
 
-A customer asks for a feature.  
-Sales needs it for a deal.  
-Enterprise wants an exception.  
-Pricing is hard to explain.  
-A launch does not create traction.  
-Customers churn, and everyone blames the product.
+- Sales needs something to close a deal.
+- Enterprise customers ask for special treatment.
+- Pricing and packaging get hard to explain.
+- Customers churn, and everyone blames the product.
+- A launch goes live, but nobody uses it.
+- A feature gets built, but adoption is weak.
+- Someone says “just make it configurable.”
+- The roadmap keeps growing, but the team does not.
+
+I built this because I kept seeing the same pattern:
+
+**Teams jump to solutions before they understand the real problem.**
 
 Sometimes the product is the problem.
 
-But sometimes it is onboarding, positioning, packaging, Sales expectations, customer fit, implementation, dependencies, or unclear decision-making.
+But often it is something else:
 
-This toolkit helps you slow down just enough to make a better call.
+- onboarding
+- positioning
+- packaging
+- Sales expectations
+- customer fit
+- implementation
+- dependencies
+- unclear ownership
+- weak decision-making
+
+This toolkit is my way of turning that messy reality into something product people can actually use.
+
+No heavy theory.  
+No consultant language.  
+No perfect framework pretending the world is simple.
+
+Just practical product thinking.
 
 ---
 
-## What this is
+## What this helps you do
 
-Product Reality Kit is a practical diagnostic toolkit for B2B SaaS product people.
-
-It helps you move from:
+Product Reality Kit helps you move from:
 
 > “We need to build this.”
 
 to:
 
-> “What problem are we solving, for whom, why now, and what trade-off are we willing to make?”
+> “What problem are we solving, who has it, how important is it, have we seen it before, and what happens if we say yes?”
 
-The goal is not to create more process.
+It is useful when you need to:
+
+- understand the customer problem before jumping to a solution
+- challenge a Sales-driven request without being anti-Sales
+- evaluate if an enterprise request is strategic or just custom work
+- separate pricing problems from packaging, positioning, or value problems
+- understand why a launch did not land
+- diagnose weak activation or low feature adoption
+- avoid blaming churn on product too quickly
+- decide if configurability creates value or long-term complexity
+- write down product decisions so the team remembers why they were made
+
+The goal is not more process.
 
 The goal is better product judgment.
 
 ---
 
-## Who this is for
-
-This is for product people working in B2B SaaS, especially in:
-
-- Sales-led companies
-- Vertical SaaS
-- Workflow products
-- No-code platforms
-- Orchestration products
-- Enterprise-heavy environments
-
-It is useful when you deal with:
-
-- Unclear customer problems
-- Sales-driven roadmap pressure
-- Enterprise customers asking for exceptions
-- Roadmaps with too many priorities
-- Pricing and packaging confusion
-- Weak go-to-market plans
-- Weak activation after purchase or signup
-- Features that shipped but do not get used
-- Churn that may get blamed on product too quickly
-- Configurability requests that sound easy but create long-term complexity
-- Product decisions that disappear into Slack, meetings, or half-forgotten PRDs
-
----
-
-## How it works
+## The basic idea
 
 ```text
 Messy situation
-    -> Diagnostic
-    -> Evidence
-    -> Options
-    -> Trade-off
-    -> Product Decision Record
-    -> Clear communication
+    -> Diagnose the real problem
+    -> Check the evidence
+    -> Understand the options
+    -> Make the trade-off clear
+    -> Write the decision down
+    -> Communicate it properly
