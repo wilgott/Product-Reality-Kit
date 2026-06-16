@@ -14,7 +14,7 @@ The toolkit separates three kinds of material:
 
 If a broad claim cannot be sourced, the toolkit should frame it as a question, a risk, a pattern to check, or an opinionated product judgment.
 
-The current version does not make academic, book-based, or formal research-backed claims. Books and articles listed as candidates are there for future review, not as citations for the current diagnostics.
+The current version does not make academic, book-based, or formal research-backed claims.
 
 ## Content grounding by section
 
@@ -25,7 +25,6 @@ The current version does not make academic, book-based, or formal research-backe
 | Product Decision Records | Help teams record what was decided, why, what trade-off was accepted, and when to revisit it. | Source-backed by ADR patterns, adapted for product decisions. |
 | Prompts | Give users copy-paste ways to pressure-test a messy product situation with an AI assistant. | Inspired by public PM prompt repositories as a packaging pattern; the actual prompts are written for this toolkit. |
 | VerifyFlow example | Show how the toolkit works on a realistic but fictional B2B SaaS situation. | Fictional example based on common product pressures in regulated workflow products. No real customer data. |
-| Candidate sources | Keep track of product books that may be useful later. | Not used as citations in the current toolkit. Review before relying on them for claims. |
 
 ## Decision records
 
@@ -57,15 +56,3 @@ Sources:
 
 - GitHub, [product-management topic](https://github.com/topics/product-management)
 - Dean Peters, [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts)
-
-## Candidate sources to review later
-
-These are useful product references, but they are not used as source-backed claims in the current toolkit. Review them before adding claims that depend on them.
-
-- Continuous Discovery Habits, Teresa Torres
-- The Mom Test, Rob Fitzpatrick
-- Inspired, Marty Cagan
-- Escaping the Build Trap, Melissa Perri
-- Monetizing Innovation, Madhavan Ramanujam and Georg Tacke
-- Obviously Awesome, April Dunford
-- Lean Analytics, Alistair Croll and Benjamin Yoskovitz

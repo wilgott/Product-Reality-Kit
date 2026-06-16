@@ -105,7 +105,7 @@ Do not pretend weak evidence is strong evidence.
 
 Be honest.
 
-Good product judgement includes knowing what is still unclear.
+Good product judgment includes knowing what is still unclear.
 
 Examples:
 

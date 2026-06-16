@@ -170,4 +170,4 @@ Use this prompt if you want help pressure-testing the request:
 
 Sales input is signal.
 
-Product judgement decides what to do with it.
+Product judgment decides what to do with it.

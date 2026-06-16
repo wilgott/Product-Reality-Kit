@@ -64,7 +64,7 @@ Start here:
 7. Does onboarding become easier or harder?
 8. Does Sales become easier or harder?
 9. Does CS or Support become easier or harder?
-10. Does this increase customer value, or hide a lack of product judgement?
+10. Does this increase customer value, or hide a lack of product judgment?
 11. How many combinations will we need to test?
 12. What is the simplest useful version?
 13. Should this be a default, template, setting, rule, permission, paid add-on, or service?
@@ -111,7 +111,7 @@ No-code can make some changes faster to create.
 
 It does not make product logic obvious. It does not remove the need for defaults, guardrails, naming, testing, documentation, onboarding, governance, or ownership. A no-code workflow with unclear logic is still unclear logic.
 
-When "no-code" means "we do not have to decide how this should work," the team is using tooling as a substitute for product judgement.
+When "no-code" means "we do not have to decide how this should work," the team is using tooling as a substitute for product judgment.
 
 ### "A setting is cheaper than a product decision."
 
