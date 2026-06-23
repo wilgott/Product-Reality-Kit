@@ -94,6 +94,22 @@ The goal is better product judgment.
 
 ---
 
+## Start here
+
+If you landed here from GitHub, use the kit in this order:
+
+1. Pick the closest situation in the [diagnostic chooser](diagnostics/README.md).
+2. Read the matching diagnostic and gather the evidence it asks for.
+3. Use a relevant [AI prompt](prompts/) if you want help pressure-testing the situation.
+4. Write the decision down with a [Product Decision Record template](decision-records/product-decision-record.md), the [lite template](decision-records/product-decision-record-lite.md), or the [Confluence copy-paste version](decision-records/confluence-copy-paste.md).
+5. If you want to see the full path first, read the [VerifyFlow sales request example](examples/verifyflow/sales-request.md) or the [PricePath pricing confusion example](examples/pricepath/pricing-confusion.md).
+
+For more detail, see [Usage](USAGE.md).
+
+For full worked flows, see the [diagnostic chooser examples](diagnostics/README.md#example-flow).
+
+---
+
 ## The basic idea
 
 ```text

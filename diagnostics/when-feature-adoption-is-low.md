@@ -187,9 +187,9 @@ Make sure the decision record answers:
 
 ## Optional AI prompt
 
-Use this prompt after you have written a Product Decision Record and want to pressure-test the adoption logic:
+Use this prompt if you want help diagnosing low feature adoption:
 
-- [Review a product decision](../prompts/review-product-decision.md)
+- [Diagnose feature adoption](../prompts/diagnose-feature-adoption.md)
 
 ---
 

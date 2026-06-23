@@ -192,9 +192,9 @@ Make sure the decision record answers:
 
 ## Optional AI prompt
 
-Use this prompt after you have written a Product Decision Record and want to pressure-test the activation logic:
+Use this prompt if you want help diagnosing weak activation:
 
-- [Review a product decision](../prompts/review-product-decision.md)
+- [Diagnose activation](../prompts/diagnose-activation.md)
 
 ---
 

@@ -196,9 +196,9 @@ Make sure the decision record answers:
 
 ## Optional AI prompt
 
-Use this prompt if you want help pressure-testing the launch:
+Use this prompt if you want help diagnosing a launch that did not land:
 
-- [Pressure-test GTM](../prompts/pressure-test-gtm.md)
+- [Diagnose launch](../prompts/diagnose-launch.md)
 
 ---
 

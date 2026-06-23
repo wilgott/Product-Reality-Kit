@@ -8,7 +8,16 @@ It is a Markdown toolkit. You can read it on GitHub, clone it locally, copy temp
 
 ## Use it on GitHub
 
-Start with the diagnostic that matches the situation:
+If you are unsure where to start, use the [diagnostic chooser](diagnostics/README.md).
+
+The basic path is:
+
+1. Match the messy situation to a diagnostic.
+2. Read the diagnostic and answer the first questions.
+3. Use a prompt only if it helps you pressure-test the situation.
+4. Write the decision in a Product Decision Record.
+
+Core diagnostics:
 
 - Sales pressure: [When Sales Drives the Roadmap](diagnostics/when-sales-drives-the-roadmap.md)
 - Enterprise exception: [When Enterprise Wants an Exception](diagnostics/when-enterprise-wants-an-exception.md)
@@ -24,6 +33,13 @@ Then write the decision with one of the Product Decision Record templates:
 - [Product Decision Record](decision-records/product-decision-record.md)
 - [Lite Product Decision Record](decision-records/product-decision-record-lite.md)
 - [Confluence copy-paste version](decision-records/confluence-copy-paste.md)
+
+Worked examples:
+
+- Sales pressure: [VerifyFlow](examples/verifyflow/sales-request.md)
+- Pricing confusion: [PricePath](examples/pricepath/pricing-confusion.md)
+
+For the full example paths, see the [diagnostic chooser examples](diagnostics/README.md#example-flow).
 
 ---
 

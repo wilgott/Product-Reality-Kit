@@ -206,9 +206,9 @@ If the PDR cannot answer these, do not ship the option yet.
 
 ## Optional AI prompt
 
-Use this prompt if you want help finding weak logic:
+Use this prompt if you want help diagnosing a configurability request:
 
-- [Review a product decision](../prompts/review-product-decision.md)
+- [Diagnose configurability](../prompts/diagnose-configurability.md)
 
 ---
 
