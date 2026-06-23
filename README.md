@@ -110,6 +110,12 @@ For full worked flows, see the [diagnostic chooser examples](diagnostics/README.
 
 ---
 
+## What's new
+
+See [Release Notes](RELEASE_NOTES.md) for the latest public update.
+
+---
+
 ## The basic idea
 
 ```text
